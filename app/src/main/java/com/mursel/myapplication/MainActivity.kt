@@ -26,4 +26,8 @@ class MainActivity : AppCompatActivity() {
             binding.sonuc.text = "Sonuç= "+sonuc.toString()
         }
     }
+
+    fun bugunbunuyaptik(){
+
+    }
 }
